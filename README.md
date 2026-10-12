@@ -4,7 +4,7 @@ Official documentation, downloads and developer resources for KiwiPi 4, a Rockch
 
 [KiwiPi website](https://kiwipi.com/) · [Product page](https://kiwipi.com/product/kiwipi-4/) · [Documentation center](https://kiwipi.com/document-center/?dc_tab=10210.1) · [Contact KiwiPi](https://kiwipi.com/contact-us/)
 
-[![KiwiPi 4 board](assets/kiwipi-4-board.svg)](https://kiwipi.com/product/kiwipi-4/)
+<a href="https://kiwipi.com/product/kiwipi-4/"><img src="assets/kiwipi-4-board.svg" alt="KiwiPi 4 board" width="480"></a>
 
 ## Technical configuration
 
